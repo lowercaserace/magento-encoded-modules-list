@@ -7,6 +7,7 @@ The purpose of this repository is to maintain a list of Magento 1 / Magento 2 ve
 * Cannot be pen-tested for security.
 * Prevents LTS support if vendor is no longer available.
 * Prevents PHP version upgrading.
+* Impact on application performance.
 
 # Vendor List
 * [Fishpig](https://fishpig.co.uk/)
@@ -14,3 +15,4 @@ The purpose of this repository is to maintain a list of Magento 1 / Magento 2 ve
 * [Unirgy](https://unirgy.com/)
 * [Cart2Quote](https://www.cart2quote.com/)
 * [Wyomind](https://www.wyomind.com/)
+* [All For Coding](https://all4coding.com/)
