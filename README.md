@@ -18,6 +18,7 @@ The purpose of this repository is to maintain a list of Magento 1 / Magento 2 ve
 * [GoMage](https://www.gomage.com/) - [Read Wiki](https://wiki.gomage.com/hc/en-us/articles/115002240191-Errors-related-to-Helper-Data-php-file)
 * [Unirgy](https://unirgy.com/)
 * [Wyomind](https://www.wyomind.com/)
+* [Magebird](https://www.magebird.com/)
 
 \* Open source version of the module(s) can be purchased under a specific price tier from vendor.
 
