@@ -15,7 +15,6 @@ The purpose of this repository is to maintain a list of Magento 1 / Magento 2 ve
 * [Cart2Quote](https://www.cart2quote.com/)*
 * [Extendware](https://www.extendware.com/)
 * [Fishpig](https://fishpig.co.uk/)
-* [GoMage](https://www.gomage.com/) - [Read Wiki](https://wiki.gomage.com/hc/en-us/articles/115002240191-Errors-related-to-Helper-Data-php-file)
 * [Unirgy](https://unirgy.com/)
 * [Wyomind](https://www.wyomind.com/)
 * [Magebird](https://www.magebird.com/)
